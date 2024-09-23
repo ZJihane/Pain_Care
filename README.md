@@ -1,5 +1,10 @@
 # PainCare Technical Guide - Merging Technology and Care
 
+![image](https://github.com/user-attachments/assets/df38a0eb-3273-41d9-8e46-ff28746ff6d1)
+
+
+
+
 Welcome to the world of PainCare, an application dedicated to managing endometriosis, designed to offer comprehensive support and valuable resources to individuals living with this chronic condition.
 
 ## 1. Overview of the PainCare Application
@@ -9,7 +14,9 @@ Our goal is to provide an interactive and informative environment, allowing user
 
 ## 2. Features
 
-- ### a. Account Creation and Authentication  
+- ### a. Account Creation and Authentication
+
+
   Create your account in just a few clicks. Your PainCare account provides you with a unique profile to better organize your journey.
 
 - ### b. Comprehensive Diagnostic Form  
@@ -21,7 +28,8 @@ Our goal is to provide an interactive and informative environment, allowing user
 - ### d. Community Blog  
   Share your stories, tips, and support. Our community blog offers a platform to exchange experiences and strengthen the bonds within our community.
 
-- ### e. Informative Quizzes  
+- ### e. Informative Quizzes
+
   Test your knowledge. Informative quizzes help you better understand endometriosis, demystifying the condition and its implications.
 
 - ### f. Medical Articles  
