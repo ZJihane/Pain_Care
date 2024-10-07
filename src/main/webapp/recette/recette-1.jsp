@@ -10,7 +10,7 @@
     <section class="breadcrumbs">
         <div class="container">
             <ol>
-                <li><a href="${contextPath}/userapp/acceuil_user.jsp?loggedInUser=${loggedInUser}" style="color:#8bcbc3;">Home</a></li>
+                <li><a href="${contextPath}/userapp/acceuil_user.jsp?loggedInUser=${loggedInUser}" style="color:#8bcbc4;">Home</a></li>
                 <li>Recette</li>
             </ol>
             <h2>Recette</h2>

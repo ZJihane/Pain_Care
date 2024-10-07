@@ -1,0 +1,506 @@
+Folder PATH listing
+Volume serial number is 8292-A336
+C:.
+|   .classpath
+|   .project
+|   README.md
+|   tree.txt
+|   
++---.settings
+|       .jsdtscope
+|       org.eclipse.core.resources.prefs
+|       org.eclipse.jdt.core.prefs
+|       org.eclipse.wst.common.component
+|       org.eclipse.wst.common.project.facet.core.xml
+|       org.eclipse.wst.jsdt.ui.superType.container
+|       org.eclipse.wst.jsdt.ui.superType.name
+|       
++---build
+|   \---classes
+|       +---Beans
+|       |       article.class
+|       |       Blog.class
+|       |       diagnostic.class
+|       |       history.class
+|       |       pain.class
+|       |       PainTrack.class
+|       |       period.class
+|       |       recette.class
+|       |       user.class
+|       |       
+|       \---DAO
+|           |   dao.properties
+|           |   DAOConfigurationException.class
+|           |   DAOException.class
+|           |   DAOFactory.class
+|           |   
+|           +---DAO_Article
+|           |       ArticleDAO.class
+|           |       ArticleDAOImpl.class
+|           |       articleServlet.class
+|           |       
+|           +---DAO_Blog
+|           |       BlogDAO.class
+|           |       BlogDaoImpl.class
+|           |       BlogServlet.class
+|           |       
+|           +---DAO_Diagnostic
+|           |       DiagnosticDAO.class
+|           |       DiagnosticDaoImpl.class
+|           |       DiagnosticServlet.class
+|           |       DownloadResultsServlet.class
+|           |       
+|           +---DAO_History
+|           |       GestionHistory.class
+|           |       HistoryDAO.class
+|           |       HistoryDaoImpl.class
+|           |       
+|           +---DAO_Login
+|           |       HomeServlet.class
+|           |       LoginServlet.class
+|           |       LogoutServlet.class
+|           |       SignupServlet.class
+|           |       
+|           +---DAO_Pain
+|           |       PainDAO.class
+|           |       PainDaoImpl.class
+|           |       
+|           +---DAO_Pain_Track
+|           |       PainTrackDAO.class
+|           |       PainTrackServlet.class
+|           |       
+|           +---DAO_Period
+|           |       GestionPeriods.class
+|           |       PeriodDAO.class
+|           |       PeriodDaoImpl.class
+|           |       
+|           +---DAO_Recette
+|           |       RecetteDAO.class
+|           |       RecetteDAOImpl.class
+|           |       recetteServlet.class
+|           |       
+|           \---DAO_User
+|                   GestionUsers.class
+|                   UserDAO.class
+|                   UserdaoImpl.class
+|                   
+\---src
+    \---main
+        +---java
+        |   +---Beans
+        |   |       article.java
+        |   |       Blog.java
+        |   |       diagnostic.java
+        |   |       history.java
+        |   |       pain.java
+        |   |       PainTrack.java
+        |   |       period.java
+        |   |       recette.java
+        |   |       user.java
+        |   |       
+        |   \---DAO
+        |       |   dao.properties
+        |       |   DAOConfigurationException.java
+        |       |   DAOException.java
+        |       |   DAOFactory.java
+        |       |   
+        |       +---DAO_Article
+        |       |       ArticleDAO.java
+        |       |       ArticleDAOImpl.java
+        |       |       articleServlet.java
+        |       |       
+        |       +---DAO_Blog
+        |       |       BlogDAO.java
+        |       |       BlogDaoImpl.java
+        |       |       BlogServlet.java
+        |       |       
+        |       +---DAO_Diagnostic
+        |       |       DiagnosticDAO.java
+        |       |       DiagnosticDaoImpl.java
+        |       |       DiagnosticServlet.java
+        |       |       DownloadResultsServlet.java
+        |       |       
+        |       +---DAO_History
+        |       |       GestionHistory.java
+        |       |       HistoryDAO.java
+        |       |       HistoryDaoImpl.java
+        |       |       
+        |       +---DAO_Login
+        |       |       HomeServlet.java
+        |       |       LoginServlet.java
+        |       |       LogoutServlet.java
+        |       |       SignupServlet.java
+        |       |       
+        |       +---DAO_Pain
+        |       |       GestionPains.java
+        |       |       PainDAO.java
+        |       |       PainDaoImpl.java
+        |       |       
+        |       +---DAO_Pain_Track
+        |       |       PainTrackDAO.java
+        |       |       PainTrackServlet.java
+        |       |       
+        |       +---DAO_Period
+        |       |       GestionPeriods.java
+        |       |       PeriodDAO.java
+        |       |       PeriodDaoImpl.java
+        |       |       
+        |       +---DAO_Recette
+        |       |       RecetteDAO.java
+        |       |       RecetteDAOImpl.java
+        |       |       recetteServlet.java
+        |       |       
+        |       \---DAO_User
+        |               GestionUsers.java
+        |               UserDAO.java
+        |               UserdaoImpl.java
+        |               
+        \---webapp
+            |   error.jsp
+            |   
+            +---.sass-cache
+            |   +---21880c0ffe15753a53f8402e9f64e1077e071510
+            |   |       style.scssc
+            |   |       
+            |   +---2866be86c578bb583fbf023501bb9fd24cc3bf22
+            |   |       extend.scssc
+            |   |       fonts.scssc
+            |   |       global.scssc
+            |   |       minxi.scssc
+            |   |       variables.scssc
+            |   |       
+            |   +---3948936f84e1a30385e73a9be140b58b48c82e15
+            |   |       style.scssc
+            |   |       
+            |   +---643489b018602f15119d8f44aeb7fc79468873a9
+            |   |       main.scssc
+            |   |       responsive.scssc
+            |   |       
+            |   +---7643c8aa2e335ff5e104bc47d8dd7f1a0693bb39
+            |   |       extend.scssc
+            |   |       fonts.scssc
+            |   |       global.scssc
+            |   |       minxi.scssc
+            |   |       variables.scssc
+            |   |       
+            |   \---9dc767a56f3dc2f8a933300255cd2265f13191d4
+            |           main.scssc
+            |           responsive.scssc
+            |           
+            +---article
+            |       article-1.jsp
+            |       articleDetails.jsp
+            |       
+            +---assets
+            |   +---css
+            |   |       style2.css
+            |   |       
+            |   +---img
+            |   |       bg.jpg
+            |   |       femmes1.png
+            |   |       femmes2.png
+            |   |       infos.jpg
+            |   |       logo.jpeg
+            |   |       logo.png
+            |   |       pain.png
+            |   |       quiz.jpg
+            |   |       value1.jpg
+            |   |       value2.jpg
+            |   |       value3.jpg
+            |   |       
+            |   +---js
+            |   |       main.js
+            |   |       
+            |   +---scss
+            |   |       Readme.txt
+            |   |       
+            |   \---vendor
+            |       +---aos
+            |       |       aos.cjs.js
+            |       |       aos.css
+            |       |       aos.esm.js
+            |       |       aos.js
+            |       |       aos.js.map
+            |       |       
+            |       +---bootstrap
+            |       |   +---css
+            |       |   |       bootstrap-grid.css
+            |       |   |       bootstrap-grid.css.map
+            |       |   |       bootstrap-grid.min.css
+            |       |   |       bootstrap-grid.min.css.map
+            |       |   |       bootstrap-grid.rtl.css
+            |       |   |       bootstrap-grid.rtl.css.map
+            |       |   |       bootstrap-grid.rtl.min.css
+            |       |   |       bootstrap-grid.rtl.min.css.map
+            |       |   |       bootstrap-reboot.css
+            |       |   |       bootstrap-reboot.css.map
+            |       |   |       bootstrap-reboot.min.css
+            |       |   |       bootstrap-reboot.min.css.map
+            |       |   |       bootstrap-reboot.rtl.css
+            |       |   |       bootstrap-reboot.rtl.css.map
+            |       |   |       bootstrap-reboot.rtl.min.css
+            |       |   |       bootstrap-reboot.rtl.min.css.map
+            |       |   |       bootstrap-utilities.css
+            |       |   |       bootstrap-utilities.css.map
+            |       |   |       bootstrap-utilities.min.css
+            |       |   |       bootstrap-utilities.min.css.map
+            |       |   |       bootstrap-utilities.rtl.css
+            |       |   |       bootstrap-utilities.rtl.css.map
+            |       |   |       bootstrap-utilities.rtl.min.css
+            |       |   |       bootstrap-utilities.rtl.min.css.map
+            |       |   |       bootstrap.css
+            |       |   |       bootstrap.css.map
+            |       |   |       bootstrap.min.css
+            |       |   |       bootstrap.min.css.map
+            |       |   |       bootstrap.rtl.css
+            |       |   |       bootstrap.rtl.css.map
+            |       |   |       bootstrap.rtl.min.css
+            |       |   |       bootstrap.rtl.min.css.map
+            |       |   |       
+            |       |   \---js
+            |       |           bootstrap.bundle.js
+            |       |           bootstrap.bundle.js.map
+            |       |           bootstrap.bundle.min.js
+            |       |           bootstrap.bundle.min.js.map
+            |       |           bootstrap.esm.js
+            |       |           bootstrap.esm.js.map
+            |       |           bootstrap.esm.min.js
+            |       |           bootstrap.esm.min.js.map
+            |       |           bootstrap.js
+            |       |           bootstrap.js.map
+            |       |           bootstrap.min.js
+            |       |           bootstrap.min.js.map
+            |       |           
+            |       +---bootstrap-icons
+            |       |   |   bootstrap-icons.css
+            |       |   |   bootstrap-icons.json
+            |       |   |   bootstrap-icons.min.css
+            |       |   |   bootstrap-icons.scss
+            |       |   |   
+            |       |   \---fonts
+            |       |           bootstrap-icons.woff
+            |       |           bootstrap-icons.woff2
+            |       |           
+            |       +---glightbox
+            |       |   +---css
+            |       |   |       glightbox.css
+            |       |   |       glightbox.min.css
+            |       |   |       plyr.css
+            |       |   |       plyr.min.css
+            |       |   |       
+            |       |   \---js
+            |       |           glightbox.js
+            |       |           glightbox.min.js
+            |       |           
+            |       +---isotope-layout
+            |       |       isotope.pkgd.js
+            |       |       isotope.pkgd.min.js
+            |       |       
+            |       +---php-email-form
+            |       |       validate.js
+            |       |       
+            |       +---purecounter
+            |       |       purecounter_vanilla.js
+            |       |       purecounter_vanilla.js.map
+            |       |       
+            |       +---remixicon
+            |       |       remixicon.css
+            |       |       remixicon.eot
+            |       |       remixicon.glyph.json
+            |       |       remixicon.less
+            |       |       remixicon.svg
+            |       |       remixicon.symbol.svg
+            |       |       remixicon.ttf
+            |       |       remixicon.woff
+            |       |       remixicon.woff2
+            |       |       
+            |       \---swiper
+            |               swiper-bundle.min.css
+            |               swiper-bundle.min.js
+            |               swiper-bundle.min.js.map
+            |               
+            +---blog
+            |       blog-1.jsp
+            |       blogDetails.jsp
+            |       create_blog.jsp
+            |       
+            +---css2
+            |       style.css
+            |       style.css.map
+            |       
+            +---diagnostic
+            |       DiagnosticForm.jsp
+            |       Diagnostic_result.jsp
+            |       
+            +---fonts
+            |   +---material-icon
+            |   |   +---css
+            |   |   |       material-design-iconic-font.css
+            |   |   |       material-design-iconic-font.min.css
+            |   |   |       
+            |   |   \---fonts
+            |   |           Material-Design-Iconic-Font.eot
+            |   |           Material-Design-Iconic-Font.svg
+            |   |           Material-Design-Iconic-Font.ttf
+            |   |           Material-Design-Iconic-Font.woff
+            |   |           Material-Design-Iconic-Font.woff2
+            |   |           
+            |   \---poppins
+            |           poppins-v5-latin-300.eot
+            |           poppins-v5-latin-300.svg
+            |           poppins-v5-latin-300.ttf
+            |           poppins-v5-latin-300.woff
+            |           poppins-v5-latin-300.woff2
+            |           poppins-v5-latin-300italic.eot
+            |           poppins-v5-latin-300italic.svg
+            |           poppins-v5-latin-300italic.ttf
+            |           poppins-v5-latin-300italic.woff
+            |           poppins-v5-latin-300italic.woff2
+            |           poppins-v5-latin-500.eot
+            |           poppins-v5-latin-500.svg
+            |           poppins-v5-latin-500.ttf
+            |           poppins-v5-latin-500.woff
+            |           poppins-v5-latin-500.woff2
+            |           poppins-v5-latin-500italic.eot
+            |           poppins-v5-latin-500italic.svg
+            |           poppins-v5-latin-500italic.ttf
+            |           poppins-v5-latin-500italic.woff
+            |           poppins-v5-latin-500italic.woff2
+            |           poppins-v5-latin-600.eot
+            |           poppins-v5-latin-600.svg
+            |           poppins-v5-latin-600.ttf
+            |           poppins-v5-latin-600.woff
+            |           poppins-v5-latin-600.woff2
+            |           poppins-v5-latin-700.eot
+            |           poppins-v5-latin-700.svg
+            |           poppins-v5-latin-700.ttf
+            |           poppins-v5-latin-700.woff
+            |           poppins-v5-latin-700.woff2
+            |           poppins-v5-latin-700italic.eot
+            |           poppins-v5-latin-700italic.svg
+            |           poppins-v5-latin-700italic.ttf
+            |           poppins-v5-latin-700italic.woff
+            |           poppins-v5-latin-700italic.woff2
+            |           poppins-v5-latin-800.eot
+            |           poppins-v5-latin-800.svg
+            |           poppins-v5-latin-800.ttf
+            |           poppins-v5-latin-800.woff
+            |           poppins-v5-latin-800.woff2
+            |           poppins-v5-latin-800italic.eot
+            |           poppins-v5-latin-800italic.svg
+            |           poppins-v5-latin-800italic.ttf
+            |           poppins-v5-latin-800italic.woff
+            |           poppins-v5-latin-800italic.woff2
+            |           poppins-v5-latin-900.eot
+            |           poppins-v5-latin-900.svg
+            |           poppins-v5-latin-900.ttf
+            |           poppins-v5-latin-900.woff
+            |           poppins-v5-latin-900.woff2
+            |           poppins-v5-latin-italic.eot
+            |           poppins-v5-latin-italic.svg
+            |           poppins-v5-latin-italic.ttf
+            |           poppins-v5-latin-italic.woff
+            |           poppins-v5-latin-italic.woff2
+            |           poppins-v5-latin-regular.eot
+            |           poppins-v5-latin-regular.svg
+            |           poppins-v5-latin-regular.ttf
+            |           poppins-v5-latin-regular.woff
+            |           poppins-v5-latin-regular.woff2
+            |           roboto-condensed-v16-latin-700.eot
+            |           roboto-condensed-v16-latin-700.svg
+            |           roboto-condensed-v16-latin-700.ttf
+            |           roboto-condensed-v16-latin-700.woff
+            |           roboto-condensed-v16-latin-700.woff2
+            |           roboto-condensed-v16-latin-700italic.eot
+            |           roboto-condensed-v16-latin-700italic.svg
+            |           roboto-condensed-v16-latin-700italic.ttf
+            |           roboto-condensed-v16-latin-700italic.woff
+            |           roboto-condensed-v16-latin-700italic.woff2
+            |           roboto-condensed-v16-latin-italic.eot
+            |           roboto-condensed-v16-latin-italic.svg
+            |           roboto-condensed-v16-latin-italic.ttf
+            |           roboto-condensed-v16-latin-italic.woff
+            |           roboto-condensed-v16-latin-italic.woff2
+            |           roboto-condensed-v16-latin-regular.eot
+            |           roboto-condensed-v16-latin-regular.svg
+            |           roboto-condensed-v16-latin-regular.ttf
+            |           roboto-condensed-v16-latin-regular.woff
+            |           roboto-condensed-v16-latin-regular.woff2
+            |           
+            +---history
+            |       All_history.jsp
+            |       CreateHistory.jsp
+            |       update_history.jsp
+            |       
+            +---home
+            |       footer.jsp
+            |       head.jsp
+            |       header1.jsp
+            |       home.jsp
+            |       links.jsp
+            |       login.jsp
+            |       signup.jsp
+            |       
+            +---images
+            |       logo_form.png
+            |       signin-image.jpg
+            |       signup-image.jpg
+            |       
+            +---js2
+            |       main.js
+            |       
+            +---META-INF
+            |       MANIFEST.MF
+            |       
+            +---Pain
+            |       formPain.jsp
+            |       pain.jsp
+            |       updatePain.jsp
+            |       
+            +---Period
+            |       formPeriod.jsp
+            |       period.jsp
+            |       updatePeriod.jsp
+            |       
+            +---recette
+            |       recette-1.jsp
+            |       recetteDetails.jsp
+            |       
+            +---scss2
+            |   |   style.scss
+            |   |   
+            |   +---common
+            |   |       extend.scss
+            |   |       fonts.scss
+            |   |       global.scss
+            |   |       minxi.scss
+            |   |       variables.scss
+            |   |       
+            |   \---layouts
+            |           main.scss
+            |           responsive.scss
+            |           
+            +---User
+            |       All_Users.jsp
+            |       CreateUser.jsp
+            |       update_user.jsp
+            |       
+            +---userapp
+            |       acceuil_user.jsp
+            |       Calendrier.jsp
+            |       header2.jsp
+            |       pain_graph.jsp
+            |       profil.jsp
+            |       quiz.jsp
+            |       
+            +---vendor2
+            |   \---jquery
+            |           jquery-ui.min.js
+            |           jquery.min.js
+            |           
+            \---WEB-INF
+                \---lib
+                        mysql-connector-j-8.1.0.jar
+                        taglibs-standard-impl-1.2.5-migrated-0.0.1.jar
+                        taglibs-standard-spec-1.2.5-migrated-0.0.1.jar
+                        
